@@ -7,7 +7,7 @@ I write about what I'm working on over at [my blog](https://billpotato.github.io
 ### What I'm doing
 
 - Software Engineering Intern at Tecxmate, working on payments and backend infrastructure
-- Technical Lead at Google Developer Group @ USF, where I handle the backend for our hackathon platform and work with amazing people
+- Technical Lead at Google Developer Group @ USF, where I handle the backend for our hackathon platform and social page
 - Ex-Research assistant, where I worked on ML for crime forecasting and automated my lab's experiment pipelines
 
 ### A few things I've built
