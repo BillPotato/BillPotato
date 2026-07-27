@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Bill
 
-<!--
-**BillPotato/BillPotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of South Florida. I mostly work on backends and automation. I like gathering data through web scraping and automating manual pipelines. I also daily drive Linux and spend some of my time writing bash scripts.
 
-Here are some ideas to get you started:
+I write about what I'm working on over at [my blog](https://billpotato.github.io/blog/). Always happy to chat!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm doing
+
+- Software Engineering Intern at Tecxmate, working on payments and backend infrastructure
+- Technical Lead at Google Developer Group @ USF, where I handle the backend for our hackathon platform
+- Ex-Research assistant, where I worked on ML for crime forecasting and automated my lab's experiment pipelines
+
+### A few things I've built
+ 
+- [**InstaPlayer**](https://github.com/BillPotato/InstaPlayer): a self hosted free music downloader with an opensource engine
+- [**RAG Study Chatbot**](https://github.com/BillPotato/gdg-rag-chatbot): a study assistant that answers questions from your own course material using retrieval augmented generation
+- [**Web Scraper Collection**](https://github.com/BillPotato/my-web-scrapers): multiple scrapers I've made over the years to collect interesting statistics
+
+### Tools I've used
+
+Next.js, React.js, Node.js, Express.js, FastAPI, PostgreSQL, Cloudflare R2, Firebase, MongoDB, Redis, Git, GitHub Actions, Docker, JWT, Playwright, Jest, Clerk, BeautifulSoup, Selenium, Linux (Ubuntu, Arch)
+
