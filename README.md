@@ -13,10 +13,11 @@ I write about what I'm working on over at [my blog](https://billpotato.github.io
 
 ### A few things I've built
 
-- [**Claude Live Terminal**](https://github.com/BillPotato/claude-live-terminal): a VS Code extension and Claude Code plugin that streams shell command output live into integrated terminals
+
 - [**InstaPlayer**](https://github.com/BillPotato/InstaPlayer): a self-hosted music platform built around an open-source download engine
 - [**HackUSF 2026**](https://github.com/BillPotato/HackUSF-2026): the hackathon platform for HackUSF 2026, including applicant workflows and backend infrastructure
 - [**RAG Study Chatbot**](https://github.com/BillPotato/gdg-rag-chatbot): a study assistant that answers questions from your own course material using retrieval-augmented generation
+- [**Claude Live Terminal**](https://github.com/BillPotato/claude-live-terminal): a VS Code extension and Claude Code plugin that streams command output live into integrated terminals
 - [**VoiceRouter**](https://github.com/BillPotato/voiceRouter): an LLM-powered inquiry router and help-desk assistant
 - [**Daily Dose**](https://github.com/BillPotato/daily-dose): a Gemini-powered health tracking prototype with daily surveys, data visualization, and AI-generated task lists
 - [**Honors Inventory**](https://github.com/BillPotato/honors_inventory): a full-stack inventory management system for tracking equipment and locations for USF's Honors College
